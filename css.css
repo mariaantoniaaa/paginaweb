@@ -116,3 +116,19 @@ footer {
   color: #c0b2e3;
   border-top: 1px solid #4c3675;
 }
+
+.revista-boton {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 20px;
+  background-color: #bb86fc;
+  color: #1d1233;
+  font-weight: bold;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.revista-boton:hover {
+  background-color: #a370e0;
+}
