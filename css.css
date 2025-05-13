@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'The Great Warrior';
-  src: url('fonts/Great\ Warrior.ttf') format('truetype');
+  src: url('fonts/great\ warrior.woff') format('truetype');
 }
 
 @font-face {
   font-family: 'Avant Grant';
-  src: url('fonts/ITC\ Avant\ Garde\ CE\ Gothic\ Book\(1\).ttf') format('truetype');
+  src: url('fonts/Avant.woff') format('truetype');
 }
 
 body {
